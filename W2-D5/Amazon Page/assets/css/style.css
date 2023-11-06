@@ -1,0 +1,119 @@
+/* Your styles here */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.65;
+    text-align: center;
+    overflow-x: hidden;
+}
+#intero {
+    background-color: #E9EDEE;
+    padding-top: 10px;
+}
+#mid {
+    margin: 0px 50px 0px 50px;
+}
+#logotop {
+    background-color: #222F3F;
+    padding: 10px 0px 40px 20px;
+}
+#logotop img {
+    float: left;
+    width: 100px;
+}
+nav {
+    background-color: #364656;
+    padding: 0px 20px 20px 20px;
+}
+nav ul {
+    list-style-type: none;
+}
+nav a {
+    text-decoration: 0;
+    color: white;
+}
+nav li {
+    float: left;
+    font-size: small;
+    padding-right: 2.2em;
+}
+
+aside {
+    background-color: #F25D07;
+    margin: 20px 0px 30px 0px;
+}
+aside span {
+    color: white;
+    font-size: medium;
+}
+
+main {
+    background-image: url(../images/bg-image.png);
+    padding: 50px 0px 30px 0px;
+    color: white;
+    width: 100%;
+    background-size: 93%;
+}
+main h2 {
+    font-size: x-large;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+.first {
+    background-color: white;
+    margin: 30px 0px 30px 0px;
+    overflow: hidden;
+}
+.first span {
+    float: left;
+    font-weight: bold;
+    padding: 0px 10px 0px 10px;
+}
+.linkfind {
+    float: left;
+    font-weight: bold;
+    text-decoration: none;
+    color: #4DA1AC;
+}
+.imm {
+    height: 350px;
+    width: 350px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.10);
+    margin: 30px 20px 20px 65px;
+    overflow: hidden;
+    float: left;
+}
+.imm2, .imm3 {
+    width: 100%;
+    height: 500px;
+}
+.play, .sound {
+    font-weight: bold;
+    padding: 0px 10px 0px 10px;
+}
+.linkgame, .linksound {
+    font-weight: bold;
+    text-decoration: none;
+    color: #4DA1AC;
+    font-size: medium;
+}
+.imm3 {
+    margin-top: 30px;
+}
+footer {
+    background-color: #364656;
+    margin-top: 30px;
+    padding: 10px;
+    font-size: medium;
+}
+footer a {
+    color: white;
+}
+#logobottom {
+    background-color: #222F3F;
+    padding: 50px;
+}
+#logobottom img {
+    width: 150px;
+}
